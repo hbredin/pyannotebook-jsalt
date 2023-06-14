@@ -4,5 +4,5 @@
 git clone https://github.com/hbredin/pyannotebook-jsalt.git
 cd pyannotebook-jsalt
 pip install pyannotebook
-jupyter notebook test.ipynb
+jupyter notebook manual_annotation.ipynb
 ```
